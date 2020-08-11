@@ -1,0 +1,6 @@
+librosa
+loguru
+mlconfig
+numpy
+torch
+torchaudio
